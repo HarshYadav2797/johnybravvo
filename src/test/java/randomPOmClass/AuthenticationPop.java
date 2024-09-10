@@ -35,8 +35,6 @@ public class AuthenticationPop {
 		
 	    
 	}
-public static void main(String[] args) {
-	TakeScreenShot ts= (TakeScreenShot)driver;
-	ts.
-}
+
+
 }
